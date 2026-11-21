@@ -1,0 +1,14 @@
+{
+  "id": 12,
+  "title": "Pest Control Comparison",
+  "question": "How do observed insect counts differ by spray?",
+  "x": "spray",
+  "y": "count",
+  "mode": "group",
+  "caveat": "Lower counts indicate better observed control; experimental context limits transfer.",
+  "action": "Compare safety, cost and repeatability before choosing a treatment.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/InsectSprays.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/datasets/InsectSprays.html",
+  "metric_label": "mean count",
+  "method": "Complete-case descriptive comparison of count by spray; show group counts, mean, minimum and maximum."
+}

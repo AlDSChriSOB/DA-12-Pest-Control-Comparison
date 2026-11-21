@@ -1,0 +1,4 @@
+column,dtype,missing,missing_pct,distinct
+rownames,int64,0,0.0,72
+count,int64,0,0.0,24
+spray,object,0,0.0,6
